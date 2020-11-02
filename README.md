@@ -1,4 +1,4 @@
-# consumer_behavior_lucerne
+# 04: Consumer behavior of the population in the canton of Lucerne
 Different persona are to be compiled on the basis of data from Bfs and LuStat to raise awareness of environmental issues
 
 
@@ -26,5 +26,5 @@ Data on the income of persons in Lucerne
 <br>Data on municipal waste in Lucerne
 
 
-
-
+Challenge from Hackathon Shape My City : https://hack.opendata.ch/project/615
+Other Challenges :https://hack.opendata.ch/event/35
