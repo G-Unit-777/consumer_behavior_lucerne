@@ -27,4 +27,4 @@ Data on the income of persons in Lucerne
 
 
 Challenge from Hackathon Shape My City : https://hack.opendata.ch/project/615
-Other Challenges :https://hack.opendata.ch/event/35
+Other Challenges: https://hack.opendata.ch/event/35
